@@ -2,6 +2,7 @@
 - 👀 I’m interested in Full-stack developement and Cloud Computing
 - 📖 Currently learning application deployment on Kubernetes cluster
 - ☁  Apps that I have deployed on **Cloud** can be found [here](https://github.com/audurthit-fall2020)
+- ☁  Distributed web appliction deployed on to K8S cluster can be found [here](https://github.com/qna-k8s)
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/trivedhaudurthi/)
 
 <!---
